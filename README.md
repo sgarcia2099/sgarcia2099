@@ -17,17 +17,19 @@ Here are some ideas to get you started:
 
 # Welcome to My GitHub Profile!
 
-Researcher / coder working on projects relating to:
+Researcher / coder / PhD student working on projects relating to:
  - Proteomics
  - Mass Spectrometry
  - Bioinformatics
 
 ### Contact Information
-- Email: [sarah.garcia@vanderbilt.edu](mailto:sarah.garcia@vanderbilt.edu)
+- Email: [sgarci24@vols.utk.edu](mailto:sgarci24@vols.utk.edu)
 - LinkedIn: [Sarah Garcia](www.linkedin.com/in/sarah-garcia-07a02919b)
+- OrcID: [Sarah Garcia](https://orcid.org/0009-0000-2113-4137)
 
 ### Affiliated Organizations
-- Vanderbilt University - Chemistry: [Plate Research Lab](https://www.plate-research.org/)
+- University of Tennessee / Oak Ridge National Laboratory - Genome Science and Technology PhD Program: [Info](https://bredesencenter.utk.edu/genome-science/)
+- Vanderbilt University - Chemistry Department: [Plate Research Lab](https://www.plate-research.org/)
 
 <!-- ## Repositories
 

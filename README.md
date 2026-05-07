@@ -28,7 +28,7 @@ Researcher / coder / PhD student working on projects relating to:
 - OrcID: [Sarah Garcia](https://orcid.org/0009-0000-2113-4137)
 
 ### Affiliated Organizations
-- Bioanalytical Mass Spectrometry Group - Oak Ridge National Laboratory [Info](https://www.ornl.gov/group/bioanalytical-mass-spectrometry)
+- Bioanalytical Mass Spectrometry Group - Oak Ridge National Laboratory: [Info](https://www.ornl.gov/group/bioanalytical-mass-spectrometry)
 - University of Tennessee / Oak Ridge National Laboratory - Genome Science and Technology PhD Program: [Info](https://bredesencenter.utk.edu/genome-science/)
 - Vanderbilt University - Chemistry Department: [Plate Research Lab](https://www.plate-research.org/)
 
